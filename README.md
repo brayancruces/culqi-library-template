@@ -3,9 +3,11 @@
 
 --- Aquí bagdes --- [![License](https://poser.pugx.org/culqi/culqi-php/license)](https://packagist.org/packages/culqi/culqi-php)
 
+![](https://raw.githubusercontent.com/zeit/art/5824d39f6b3f714c51d40e8cdc4cb2673142527a/release/repo-banner.png)
+
 >  **Nota:** Usar para posibles notas.
 
-A high productivity, full-stack web framework for the Go language.
+Biblioteca de CULQI para el lenguaje {{language}}, pagos simples en tu sitio web. Consume el Culqi API.
 
 | Versión actual|Culqi API|
 |----|----|
